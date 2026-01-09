@@ -1,7 +1,7 @@
 <div align="center">
 
 _This project has been created as part
-of the 42 curriculum by <@dide-jes>(http:git)_
+of the 42 curriculum by <@dide-jes>_
 _(https://github.com/diogojj)_
 
 # ft_printf
@@ -59,7 +59,7 @@ cd ft_printf
 
 ### Compile the library
 
-```
+```bash
 make
 ```
 
@@ -73,10 +73,6 @@ make clean  # Remove object files
 make fclean # Remove object files and library
 make re     # Recompile everything
 ```
-
----
-
-## Usage
 
 ### In Your Project
 
@@ -92,24 +88,10 @@ make re     # Recompile everything
 cc -Wall -Wextra -Werror main.c libftprintf.a -o program
 ```
 
-## Implementation Details
-
-### Architecture
-
-```
-ft_printf/
-├── ft_printf.c      # Main function and format dispatcher
-├── ft_aux.c         # Base conversion functions (hex, unsigned)
-├── ft_aux2.c        # Helper functions (putchar, putstr, strlen, putnbr)
-├── ft_printf.h      # Header with function prototypes
-├── Makefile         # Compilation rules
-└── README.md        # This file
-```
-
 ## Resources
 
 - https://www.geeksforgeeks.org/c/variadic-functions-in-c
-- https://42-cursus.gitbook.io/guide/1-rank-01/ft_printf/     variadic-functions
+- https://42-cursus.gitbook.io/guide/1-rank-01/ft_printf
 
 ---
 
