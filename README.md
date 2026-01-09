@@ -21,9 +21,6 @@ _(https://github.com/diogojj)_
 - **Variadic functions** - Handling variable argument lists
 - **Formatted output** - Converting and formatting various data types
 - **42 Norm compliance** - Following strict coding standards
-
-This project deepens understanding of how formatted output works under the hood, while providing a robust, production-ready implementation.
-
 ---
 
 ### Supported Format Specifiers
