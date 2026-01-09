@@ -1,7 +1,7 @@
 <div align="center">
 
 _This project has been created as part
-of the 42 curriculum by <dide-jes>_
+of the 42 curriculum by < dide-jes >_
 _(https://github.com/diogojj)_
 
 # ft_printf
